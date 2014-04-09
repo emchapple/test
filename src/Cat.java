@@ -13,6 +13,8 @@ public class Cat {
 	
 	public void introduce(){
 		System.out.println("Hi, my name is " + name);
+		System.out.println("I have  " + colour + " fur");
+		System.out.println("and I am " + age +" years old!" );
 	}
 
 
